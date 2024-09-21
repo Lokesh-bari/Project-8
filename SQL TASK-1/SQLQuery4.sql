@@ -1,0 +1,3 @@
+SELECT COUNT(*)
+FROM StudentData
+WHERE Gender IS NULL;

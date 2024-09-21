@@ -1,0 +1,2 @@
+SELECT REPLACE(FIRST_NAME, 'A', 'a') 
+FROM WorkerTbl;
